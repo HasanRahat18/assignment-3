@@ -16,3 +16,22 @@
     text-align: center;
     color: #fff;
 }
+
+.foot{
+   
+    background-color: black;
+    text-align: center;
+    height: 200px;
+    
+
+}
+.foot h2{
+        font-family: 'Bad Script', cursive;
+        padding-top: 10px;
+        
+        color: white;
+}
+.foot p,h6{
+    
+    color: wheat
+}
