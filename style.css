@@ -35,3 +35,17 @@
     
     color: wheat
 }
+.social {
+    display: contents;
+    width: 220px;
+    padding-top: 28px;
+    margin-top: 28px;
+}
+.social a {
+    background-color: #66634E;
+    color: antiquewhite;
+    text-shadow: 4px 3px 2px #333;
+    font-size: 30px;
+    padding: 3px 7px;
+    border-radius: 15px;
+}
